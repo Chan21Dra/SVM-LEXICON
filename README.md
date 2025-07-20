@@ -7,11 +7,19 @@ Dari total
 ### 1. Distribusi Sentimen per Paslon
 #### **Debat 1** (Persentase Sentimen)
 Persebaran sentimen dibawah ini merupakan hasil setelah diimplementasikan Lexicon Based dan Support Vector Machine.
-![Image](https://github.com/user-attachments/assets/a22fc493-8005-4f20-846e-a989e29b055d)
+<img width="1344" height="830" alt="Image" src="https://github.com/user-attachments/assets/bbbe01b3-c6fa-481a-bfc0-721d47c90fbc" />
 
+#### **Debat 2** (Persentase Sentimen)
+<img width="1450" height="849" alt="Image" src="https://github.com/user-attachments/assets/797ca383-6ddc-4fb9-865e-900bf3a6b702" />
+
+#### **Debat 3** (Persentase Sentimen)
+<img width="1193" height="759" alt="Image" src="https://github.com/user-attachments/assets/db8baacc-5a8c-4027-a5c8-bd299a9a5250" />
+
+#### **Debat 4** (Persentase Sentimen)
+<img width="1072" height="735" alt="Image" src="https://github.com/user-attachments/assets/ab982789-a255-46e8-a77f-b48a11d227f1" />
 
 #### **Debat 5** (Persentase Sentimen)
-![Image](https://github.com/user-attachments/assets/7f9438f5-46c9-4b54-93bc-fbad8e1e8184)
+<img width="1177" height="753" alt="Image" src="https://github.com/user-attachments/assets/9afef0b2-de26-4efc-a13f-2b53289ff22b" />
 
 ### 2. Hasil Uji Korelasi Spearman
 Skala untuk ukuran hubungan antar variabel dalam uji korelasi spearman pada penelitian ini menggunakan patokan dari SPSS yang umum digunakan, yakni :
